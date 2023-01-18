@@ -19,6 +19,3 @@ Ruby, Sinatra, RSpec, Twilio, PostgreSQL, HTML, CSS
 
 ## Contributors
 [@alastair10](https://github.com/alastair10) [@tomfyfe85](https://github.com/tomfyfe85) [@lwly-jpg](https://github.com/lwly-jpg) [@tbuller](https://github.com/tbuller)
-
-## Screenshots
-(Pending...)
